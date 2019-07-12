@@ -1,0 +1,14 @@
+{
+    "success" : true,
+    "message_error" : "",
+    "users" : [
+        {
+        "name": "John",
+        "country": "United Kingdom"
+        },
+        {
+        "name": "Doe",
+        "country": "United States"
+        }
+    ]
+}
